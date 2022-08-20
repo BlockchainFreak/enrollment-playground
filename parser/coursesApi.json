@@ -1,0 +1,8027 @@
+[
+    {
+        "code": "SWR 105",
+        "name": "Walk, Jog and Stretch for Fitness",
+        "section": "PRT 1",
+        "credit": "1",
+        "instructor": "Babar Asad Khan",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 104",
+        "name": "Basketball for beginners",
+        "section": "PRT 1",
+        "credit": "1",
+        "instructor": "Mohsin Riaz",
+        "times": [
+            [
+                "4:00PM",
+                "5:15PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 103",
+        "name": "Strength Training and Conditioning for Beginners1 PRT",
+        "section": "16W MW",
+        "credit": "6",
+        "instructor": "Shabana Kausar",
+        "times": [
+            [
+                "4:00PM",
+                "5:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 102",
+        "name": "Swimming for Beginners",
+        "section": "PRT 3",
+        "credit": "1",
+        "instructor": "Azmat Ullah",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 102",
+        "name": "Swimming for Beginners",
+        "section": "PRT 1",
+        "credit": "1",
+        "instructor": "Amir Hussain",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 275",
+        "name": "Digital Tools for Humanities and Social Sciences4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Fatima Bilquis",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 233",
+        "name": "Media Writing",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syed Javed Nazir",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 8",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 5",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 4",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 3",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 2",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 101",
+        "name": "Islamic Studies",
+        "section": "LEC 4",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "3:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 101",
+        "name": "Islamic Studies",
+        "section": "LEC 2",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "9:30AM",
+                "11:20AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 101",
+        "name": "Islamic Studies",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 7",
+        "credit": "2",
+        "instructor": "Afsheen Salahuddin",
+        "times": [
+            [
+                "3:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 5",
+        "credit": "2",
+        "instructor": "Saima Bhaur",
+        "times": [
+            [
+                "2:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 4",
+        "credit": "2",
+        "instructor": "Saima Bhaur",
+        "times": [
+            [
+                "11:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 3",
+        "credit": "2",
+        "instructor": "Afsheen Salahuddin",
+        "times": [
+            [
+                "5:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 20",
+        "credit": "4",
+        "instructor": "Aamna Khalid",
+        "times": [
+            [
+                "1:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 18",
+        "credit": "4",
+        "instructor": "Hashim Kaleem Bhatti",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 17",
+        "credit": "4",
+        "instructor": "Aneeqa Mazhar Wattoo",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 16",
+        "credit": "4",
+        "instructor": "Syed Javed Nazir",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 13",
+        "credit": "4",
+        "instructor": "Mahrukh Baig",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 9",
+        "credit": "4",
+        "instructor": "Farhana Shahzad",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 8",
+        "credit": "4",
+        "instructor": "Furrha Ahsan",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 19",
+        "credit": "4",
+        "instructor": "Zainab Sattar",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 7",
+        "credit": "4",
+        "instructor": "Syeda Habibah Hussain Rizvi",
+        "times": [
+            [
+                "12:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 5",
+        "credit": "4",
+        "instructor": "Hashim Kaleem Bhatti",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syeda Habibah Hussain Rizvi",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 320",
+        "name": "Quantitative Research Methods",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Maryam Ibrahim",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 310",
+        "name": "Classical Sociological Theory",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Umair Javed",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 253",
+        "name": "Scientific Imagination and the Religious Mind4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Basit Bilal Koshul",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 100",
+        "name": "Introduction to Sociology",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Amen Jaffer",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 315",
+        "name": "Religion and Existentialism",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Nauman Faizi",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PMMian",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 362",
+        "name": "Quran and its Interpreters: Between Text and Context4 SEM",
+        "section": "16W F",
+        "credit": "1",
+        "instructor": "Aurangzeb Haneef",
+        "times": [
+            [
+                "2:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 211",
+        "name": "Theories and Methods in the Study of Religion4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Irfan Moeen Khan",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 100",
+        "name": "Introduction to Psychology and Human Behavior4 LEC",
+        "section": "16W MW",
+        "credit": "2",
+        "instructor": "Amna Jamshaid",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 100",
+        "name": "Introduction to Psychology and Human Behavior4 LEC",
+        "section": "16W TR",
+        "credit": "3",
+        "instructor": "Natasha Sohail Barlas",
+        "times": [
+            [
+                "3:30PM",
+                "5:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 439",
+        "name": "Political Systems",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syed Shimail Reza",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 4112",
+        "name": "Political Leadership",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Mohammad Waseem",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 22",
+        "credit": "4",
+        "instructor": "Hajra Ikram Butt",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 328",
+        "name": "Politics of Pakistan",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Taimur Rahman",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 239",
+        "name": "Politics of China",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ahmad Yunus Samad",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 229",
+        "name": "Politics of Armed Groups",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Rida Ashfaq",
+        "times": [
+            [
+                "11:30AM",
+                "1:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 7",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "3:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 221",
+        "name": "Introduction to Comparative Politics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ahmad Yunus Samad",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 209",
+        "name": "Introduction to Political Economy",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Noaman Ghazanfar Ali",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 100",
+        "name": "Introduction to Political Science",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 100",
+        "name": "Introduction to Political Science",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Rida Ashfaq",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 517",
+        "name": "Quantum Mechanics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:30PM",
+                "3:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 501",
+        "name": "Electrodynamics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Tayyab Imran",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 404",
+        "name": "Relativistic Electrodynamics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Moeez Hassan",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 6",
+        "credit": "2",
+        "instructor": "Saima Bhaur",
+        "times": [
+            [
+                "1:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 301",
+        "name": "Classical Mechanics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Tajdar Mufti",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 101",
+        "name": "Mechanics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Rafi Ullah",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ],
+            [
+                "9:00AM",
+                "9:50AM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "PHIL 132",
+        "name": "Introduction to Logic",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Muhammad Shabbir Ahsen",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 8402",
+        "name": "Seminar in Human Resource Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Abdur Rahman Malik",
+        "times": [
+            [
+                "11:00AM",
+                "2:00PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 5301",
+        "name": "Organizations and Leadership",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Faiza Ali",
+        "times": [
+            [
+                "9:30AM",
+                "11:30AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 341",
+        "name": "Human Resource Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ghulam Ali Arain",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 201",
+        "name": "Organizational Behaviour",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Ghulam Ali Arain",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 201",
+        "name": "Organizational Behaviour",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Faiza Ali",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 332",
+        "name": "Consumer Behaviour",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Saima Mujtaba Rana",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 2401",
+        "name": "Introduction to Marketing",
+        "section": "LEC 1",
+        "credit": "1.5",
+        "instructor": "Saima Mujtaba Rana",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "MS-"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 243",
+        "name": "Feminisms in Abrahamic Traditions",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sara Aziz",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 222",
+        "name": "Retail Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Saadia Raza Bukhari",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 201",
+        "name": "Principles of Marketing",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Aman Abid",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 8102",
+        "name": "Seminar in Strategic Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "5:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 7501",
+        "name": "Philosophy of Administrative Sciences",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "Anjum Fayyaz",
+        "times": [
+            [
+                "2:00PM",
+                "5:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 102",
+        "name": "Pakistan Studies: Culture and Heritage",
+        "section": "LEC 6",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 100",
+        "name": "Introduction to Political Science",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Rasul Bakhsh Rais",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 7401",
+        "name": "Pedagogy",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "11:00AM",
+                "2:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 400",
+        "name": "Strategic Business Management",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Muhammad Shafique",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 400",
+        "name": "Strategic Business Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Shafique",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 373",
+        "name": "Personal Effectiveness",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Atif Rahim Khan",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 348",
+        "name": "Internet Governance and Technology Policy",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Gulalai Khan",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 324",
+        "name": "Integrated Marketing Communications",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Khawaja Zain ul Abdin",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 261",
+        "name": "Introduction to Policy Analysis",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ghazal Mir Zulfiqar",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 15",
+        "credit": "4",
+        "instructor": "Mahrukh Baig",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 243",
+        "name": "Public Administration",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Mohsin Bashir",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 131",
+        "name": "Introduction to International Relations",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Rasul Bakhsh Rais",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 204",
+        "name": "Electricity and Magnetism",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Adam Zaman Chaudhry",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 242",
+        "name": "Business Ethics and Corporate Social Responsibility3 LEC",
+        "section": "16W TR",
+        "credit": "3",
+        "instructor": "Razi Allah Lone",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 212",
+        "name": "Business Communication",
+        "section": "LEC 5",
+        "credit": "3",
+        "instructor": "Aneka Fahima Sufi",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 212",
+        "name": "Business Communication",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Atif Rahim Khan",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 212",
+        "name": "Business Communication",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Anjum Fayyaz",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 212",
+        "name": "Business Communication",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shezeen Salim Hemani",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 6",
+        "credit": "3",
+        "instructor": "Ramsha Naeem",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 5",
+        "credit": "3",
+        "instructor": "Ramsha Naeem",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Furrha Ahsan",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 392",
+        "name": "Brand Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Moeen Naseer Butt",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 3012",
+        "name": "Nations and Nationalism: From Theory to Practice4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Asma ul-Husna Faiz",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Fariha Zahid",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Fariha Zahid",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 5201",
+        "name": "Business Economics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "9:00AM",
+                "11:00AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 2201",
+        "name": "Introduction to Business Economics",
+        "section": "LEC 1",
+        "credit": "1.5",
+        "instructor": "Syed Zahid Ali",
+        "times": [
+            [
+                "10:50AM",
+                "12:40PM",
+                "MS-"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 6",
+        "credit": "3",
+        "instructor": "Abid Raza Khan",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 5",
+        "credit": "3",
+        "instructor": "Abid Raza Khan",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 321",
+        "name": "Child and Adult Development",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Natasha Sohail Barlas",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Sameen Zafar",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6324A",
+        "name": "Strategic Mangement of Non-profit Enterprises0.5 LEC",
+        "section": "8W2 TR",
+        "credit": "1",
+        "instructor": "Ehsan Ul Haque",
+        "times": [
+            [
+                "7:00PM",
+                "8:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6311",
+        "name": "Financial Institutions",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Samir Ahmed",
+        "times": [
+            [
+                "5:15PM",
+                "6:45PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6301",
+        "name": "Strategy and Management in Developing Economies0.5 LEC",
+        "section": "8W2 MW",
+        "credit": "1",
+        "instructor": "TBA",
+        "times": [
+            [
+                "7:00PM",
+                "8:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6168",
+        "name": "Family Business",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "5:15PM",
+                "6:45PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6165",
+        "name": "Business Development and Economy",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "3:00PM",
+                "4:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6064",
+        "name": "Negotiation Skills",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Ghufran Ahmad",
+        "times": [
+            [
+                "12:30PM",
+                "2:00PMMuhammad",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6061",
+        "name": "Understanding and Managing Self-Identity in Contemporary Organizations0.5 LEC",
+        "section": "8W2 MW",
+        "credit": "2",
+        "instructor": "Muhammad Azfar Nisar",
+        "times": [
+            [
+                "10:30AM",
+                "12:00PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 201",
+        "name": "Organizational Behaviour",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Ghulam Ali Arain",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6052",
+        "name": "Human Resource Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Jawad Sarwar Naqvi Syed",
+        "times": [
+            [
+                "10:30AM",
+                "12:00PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6048",
+        "name": "Sales Force Management",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "Muhammad Luqman Awan",
+        "times": [
+            [
+                "8:30AM",
+                "10:00AM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6048",
+        "name": "Sales Force Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Muhammad Luqman Awan",
+        "times": [
+            [
+                "12:30PM",
+                "2:00PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 334",
+        "name": "Experience and Interpretation in Muslim Feminist Scriptural Discourse4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Sara Aziz",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6045",
+        "name": "Brand Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "7:00PM",
+                "8:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 260",
+        "name": "Business Law",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ali Sultan",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6043A",
+        "name": "Channel Management",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "Muhammad Luqman Awan",
+        "times": [
+            [
+                "5:15PM",
+                "6:45PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6043A",
+        "name": "Channel Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Muhammad Luqman Awan",
+        "times": [
+            [
+                "3:00PM",
+                "4:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6041A",
+        "name": "Consumer Analytics",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Ghufran Ahmad",
+        "times": [
+            [
+                "8:30AM",
+                "10:00AMMuhammad",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6039",
+        "name": "Digital Marketing",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Khawaja Zain ul Abdin",
+        "times": [
+            [
+                "7:00PM",
+                "8:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 2",
+        "credit": "2",
+        "instructor": "Uzma Safdar",
+        "times": [
+            [
+                "8:00AM",
+                "8:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6038A",
+        "name": "Blockchain and Cryptocurrency",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Ussama Yaqub",
+        "times": [
+            [
+                "12:30PM",
+                "2:00PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6032",
+        "name": "Supply Chain Management",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "10:30AM",
+                "12:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6030",
+        "name": "Entrepreneurial Finance",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Salman Khan",
+        "times": [
+            [
+                "8:30AM",
+                "10:00AM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 5401",
+        "name": "Marketing Management",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Sarah Suneel Sarfraz",
+        "times": [
+            [
+                "3:00PM",
+                "5:05PM",
+                "MS1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6029",
+        "name": "International Finance",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "10:30AM",
+                "12:00PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5901",
+        "name": "Experiential Learning I",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:30AM",
+                "1:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5901",
+        "name": "Experiential Learning I",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:30AM",
+                "1:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5701",
+        "name": "Statistical Analysis for Management",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "Jamshed Hasan Khan",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5701",
+        "name": "Statistical Analysis for Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Jamshed Hasan Khan",
+        "times": [
+            [
+                "8:30AM",
+                "10:25AM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5301",
+        "name": "Finance Fundamentals",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "Fazal Jawad Seyyed",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5201B",
+        "name": "Financial Accounting II",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:30AM",
+                "10:25AM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5201A",
+        "name": "Financial Accounting I",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:30AM",
+                "10:25AM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5201A",
+        "name": "Financial Accounting I",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 201",
+        "name": "Organizational Behaviour",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Atif Rahim Khan",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 344",
+        "name": "Data Driven Marketing",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Khudejah Iqbal Ali",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5091",
+        "name": "Managerial Communication",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Anjum Fayyaz",
+        "times": [
+            [
+                "5:00PM",
+                "6:55PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5041",
+        "name": "Marketing Management",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Ehsan Ul Haque",
+        "times": [
+            [
+                "11:05AM",
+                "1:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 521",
+        "name": "Advanced Algebra",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shaheen Nazir",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 404",
+        "name": "Real Analysis",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Masood Hussain Shah",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 230",
+        "name": "Probability",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shaheena Bashir",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHIL 435",
+        "name": "Knowledge etc",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Amber Riaz",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 222",
+        "name": "Linear Algebra II",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Haniya Azam",
+        "times": [
+            [
+                "9:00AM",
+                "10:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5301",
+        "name": "Finance Fundamentals",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Fazal Jawad Seyyed",
+        "times": [
+            [
+                "8:30AM",
+                "10:25AM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 210",
+        "name": "Introduction to Differential Equations",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Amer Rasheed",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 2601",
+        "name": "Introduction to Management",
+        "section": "LEC 1",
+        "credit": "1.5",
+        "instructor": "Ghulam Ali Arain",
+        "times": [
+            [
+                "9:30AM",
+                "11:20AM",
+                "MS-"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 120",
+        "name": "Linear Algebra with Differential Equations",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Imran Naeem",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 120",
+        "name": "Linear Algebra with Differential Equations",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Imran Naeem",
+        "times": [
+            [
+                "2:30PM",
+                "3:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 120",
+        "name": "Linear Algebra with Differential Equations",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Sultan Sial",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 102",
+        "name": "Calculus II",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Sultan Sial",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 101H",
+        "name": "Calculus I (Honours)",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Adnan Khan",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 101",
+        "name": "Calculus I",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Adnan Khan",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 101",
+        "name": "Calculus I",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Waqas Ali Azhar",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 100",
+        "name": "Introduction to Sociology",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hassan Javid",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 300",
+        "name": "Social Psychology",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Imran Rashid",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 101",
+        "name": "Calculus I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Waqas Ali Azhar",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4924",
+        "name": "Practicum on Environmental Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Asad Farooq",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4812",
+        "name": "Legal Practice II: Legal Instruments",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4812",
+        "name": "Legal Practice II: Legal Instruments",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 102",
+        "name": "Swimming for Beginners",
+        "section": "PRT 2",
+        "credit": "1",
+        "instructor": "Nimra Nimra",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 471",
+        "name": "Civil Procedure",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Fahad Malik",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 5401",
+        "name": "Marketing Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Sarah Suneel Sarfraz",
+        "times": [
+            [
+                "12:00PM",
+                "2:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6183",
+        "name": "Managing in the",
+        "section": "Age 0.5",
+        "credit": "Information",
+        "instructor": "Muhammad Umar Zafar",
+        "times": [
+            [
+                "7:00PM",
+                "8:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 470",
+        "name": "Evidence",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Muhammad Azeem",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 201",
+        "name": "Principles of Marketing",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Khudejah Iqbal Ali",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 470",
+        "name": "Evidence",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Azeem",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4503",
+        "name": "War Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ayesha Alam Malik",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 444",
+        "name": "Criminal Law Practicum: Police Accountability and Reform in Pakistan4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Saroop Ijaz",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4302",
+        "name": "Death, Rebirth, and Renewal: The Fragile Life of Pakistan’s Constitution4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Asad Rahim Khan",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4212",
+        "name": "Company Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ali Awais",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 3902",
+        "name": "Principles of Competition Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Khadija Ahmad",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 3611",
+        "name": "Family Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 359",
+        "name": "Law and International Development",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Aisha Ahmad",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 3214",
+        "name": "Law and Regulations of Finance",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Faiza .",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 341",
+        "name": "Operations Research I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Kamran Rashid",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 280",
+        "name": "Legal Practice I: Legal Writing and Research Methods4 LEC",
+        "section": "16W TR",
+        "credit": "3",
+        "instructor": "Madiha Talat",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 303",
+        "name": "Advanced Writing from the Trial",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sarah Humayun",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 240",
+        "name": "Criminal Law",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Hiba Akbar",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 240",
+        "name": "Criminal Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Angbeen Atif Mirza",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 222",
+        "name": "Torts",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 220",
+        "name": "Contracts",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sheharyar Sikander Hamid",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 204",
+        "name": "Introduction to Formal Mathematics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Imran Anwar",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 102",
+        "name": "Introduction to Pakistan Legal System",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Hiba Akbar",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 260",
+        "name": "Business Law",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Ali Sultan",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 102",
+        "name": "Introduction to Pakistan Legal System",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 129",
+        "name": "Pashto I",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Imad .",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 100",
+        "name": "Pre-Calculus",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 128",
+        "name": "Sindhi I",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ashok Kumar Khatri",
+        "times": [
+            [
+                "1:30PM",
+                "3:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 127",
+        "name": "Persian I",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Iftikhar",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 124",
+        "name": "Arabic I",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hafiz Abdul Qadeer",
+        "times": [
+            [
+                "4:30PM",
+                "6:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 244",
+        "name": "Reforming The Public Sector",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Tariq Mahmud",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 329",
+        "name": "The Cold War",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hassan Haider Karrar",
+        "times": [
+            [
+                "3:30PM",
+                "5:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 142",
+        "name": "Principles of Management",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Mohsin Bashir",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 3202",
+        "name": "Civil War in the",
+        "section": "Century 4",
+        "credit": "20th",
+        "instructor": "Ilyas Ahmad Chattha",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 4012",
+        "name": "Complex Analysis",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ali Ashher Zaidi",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 424",
+        "name": "Law and Practice of International Commercial Arbitration4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Umer Akram Chaudhry",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 2324",
+        "name": "Conceptual Understanding of Borders and Borderlands Studies4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Ilyas Ahmad Chattha",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 2313",
+        "name": "Global Environmental History",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Waqar Zaidi",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 215",
+        "name": "Buddhist Art and Architecture in the Subcontinent4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Shahbaz Naeem Khan",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PMNadhra",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 124",
+        "name": "The World Since",
+        "section": "4 LEC",
+        "credit": "1453",
+        "instructor": "Shayan Rajani",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LUMS 100",
+        "name": "Big Ideas",
+        "section": "LEC 5",
+        "credit": "0.5",
+        "instructor": "VC/Provost",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "Wk11"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LUMS 100",
+        "name": "Big Ideas",
+        "section": "LEC 4",
+        "credit": "0.5",
+        "instructor": "VC/Provost",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "Wk11"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5091",
+        "name": "Managerial Communication",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Anjum Fayyaz",
+        "times": [
+            [
+                "8:30AM",
+                "10:25AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LUMS 100",
+        "name": "Big Ideas",
+        "section": "LEC 3",
+        "credit": "0.5",
+        "instructor": "VC/Provost",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "Wk11"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LUMS 100",
+        "name": "Big Ideas",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "VC/Provost",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "Wk11"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 309",
+        "name": "Introduction to Analysis II",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shaheen Nazir",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LUMS 100",
+        "name": "Big Ideas",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "VC/Provost",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "Wk11"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FMG 5101",
+        "name": "Financial Statement Analysis and Value Creation3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Syed Kumail Abbas Rizvi",
+        "times": [
+            [
+                "11:30AM",
+                "1:30PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 214",
+        "name": "Perception",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Yasser Hashmi",
+        "times": [
+            [
+                "1:30PM",
+                "3:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 7201",
+        "name": "Mathematical Modeling",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ferhana Ahmed",
+        "times": [
+            [
+                "12:00PM",
+                "3:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 441",
+        "name": "Islamic Banking and Finance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Saad Azmat",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 400",
+        "name": "Applied Corporate Finance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Aun Raza Rizvi",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 372",
+        "name": "Actuarial Sciences and Insurance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Nauman Afzal Cheema",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 353",
+        "name": "Investments",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Talha Farrukh",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5051",
+        "name": "Organizational Behaviour",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Arif Nazir Butt",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 321",
+        "name": "Econometrics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ummad Mazhar",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 243",
+        "name": "Fintech Revolution: Market Disruption and Emerging Opportunities3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Syed Hashim Mahmood Ali",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 21",
+        "credit": "4",
+        "instructor": "Afsheen Salahuddin",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 242",
+        "name": "Islamic Capital Markets and Instruments",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Talha Farrukh",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 432",
+        "name": "Colonialism and Colonial Legacies",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hassan Javid",
+        "times": [
+            [
+                "3:30PM",
+                "5:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 222",
+        "name": "Introduction to Mathematics of Finance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ferhana Ahmed",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 200",
+        "name": "Intermediate Finance",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Bushra Naqvi",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 200",
+        "name": "Intermediate Finance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Bushra Naqvi",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 100",
+        "name": "Principles of Finance",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Salman Khan",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 100",
+        "name": "Principles of Finance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Bushra Naqvi",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENV 102",
+        "name": "Introduction to Environmental Studies",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Maryam Ibrahim",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 3510",
+        "name": "Literary Theory",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Tamkin Hussain",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 3172",
+        "name": "'The Empire Writes Back’: Diaspora Fiction in Europe4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Farah Hasan Ali",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 224",
+        "name": "Introduction to Quranic and Modern Standard Arabic4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Asif Iftikhar",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 2422",
+        "name": "Creative Nonfiction II",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Khadeeja Farooqui",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 2152",
+        "name": "Gangs, Wizards and Soldiers: Young Adult Literature through the Ages4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Saba Pirzadeh",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 201",
+        "name": "Principles of Marketing",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Aman Abid",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 1000",
+        "name": "Introduction to Literature in English",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Tamkin Hussain",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 11",
+        "credit": "4",
+        "instructor": "Huda Imtiaz",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 6071",
+        "name": "Venture Creation",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Adnan Zahid",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5211",
+        "name": "Business Law and Corporate Governance",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Mujtaba Jamal Chaudhary",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5063",
+        "name": "Problem Solving and Decision Making",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Jamshed Hasan Khan",
+        "times": [
+            [
+                "2:00PM",
+                "4:05PM",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5051",
+        "name": "Organizational Behaviour",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Arif Nazir Butt",
+        "times": [
+            [
+                "11:05AM",
+                "1:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5041",
+        "name": "Marketing Management",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Ehsan Ul Haque",
+        "times": [
+            [
+                "2:00PM",
+                "4:05PM",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 454",
+        "name": "Portfolio Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Kumail Abbas Rizvi",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5031",
+        "name": "Operations and Supply Chain Management",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Shakeel Sadiq Jajja",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PMMuhammad",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5031",
+        "name": "Operations and Supply Chain Management",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Shakeel Sadiq Jajja",
+        "times": [
+            [
+                "2:00PM",
+                "4:05PMMuhammad",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 576",
+        "name": "Smart Grid: Technology and Applications",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Naveed Ul Hassan",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 313",
+        "name": "Statistical Mechanics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ammar Ahmed Khan",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 567",
+        "name": "Multi-agent Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hassan Jaleel",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6032",
+        "name": "Supply Chain Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:30PM",
+                "2:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 558",
+        "name": "Battery Energy Storage Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ijaz Haider Naqvi",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 520",
+        "name": "Computer Architecture",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Adeel Ahmed Pasha",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 453",
+        "name": "Power Systems Protection and Stability",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Raheel Zafar",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 528",
+        "name": "Semiconductor Devices Fundamentals",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Nauman Zafar Butt",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 422",
+        "name": "Parallel-processing with CUDA",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Jahangir Ikram",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4902",
+        "name": "National Security, Intelligence, and the Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 421",
+        "name": "Digital System Design",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shahid Masud",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 2912",
+        "name": "Introduction to Film Studies",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Furrukh A. Khan",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6316",
+        "name": "Financial Markets",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Samir Ahmed",
+        "times": [
+            [
+                "8:30AM",
+                "10:00AM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 340",
+        "name": "Devices and Electronics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Wasif Tanveer Khan",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 330",
+        "name": "Electromagnetic Fields and Waves",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Imran Cheema",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 2213",
+        "name": "Punjabi II",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Zahid Hussain",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 240",
+        "name": "Circuits I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Zubair Khalid",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 212",
+        "name": "Mathematical Foundations for Machine Learning and Data Science3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Zubair Khalid",
+        "times": [
+            [
+                "1:30PM",
+                "2:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Sameen Zafar",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 203",
+        "name": "Engineering Models",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hassan Mohy-ud-Din",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 101",
+        "name": "Mechanics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Rizwan Khalid",
+        "times": [
+            [
+                "4:00PM",
+                "5:15PM",
+                "16W"
+            ],
+            [
+                "9:00AM",
+                "9:50AM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "PSY 313",
+        "name": "Mind the App: Psychology of Technology",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Usama Waheed",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 223",
+        "name": "Persian II",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Iftikhar",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 693",
+        "name": "Academic Writing",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Sannia Hussain",
+        "times": [
+            [
+                "3:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 380",
+        "name": "Communication Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ijaz Haider Naqvi",
+        "times": [
+            [
+                "9:00AM",
+                "10:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 693",
+        "name": "Academic Writing",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Sannia Hussain",
+        "times": [
+            [
+                "2:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 690",
+        "name": "Practicum Proseminar",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Razia Iram Sadik",
+        "times": [
+            [
+                "2:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 413",
+        "name": "Media and Politics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Taimur Rahman",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 690",
+        "name": "Practicum Proseminar",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Qaisar Khan",
+        "times": [
+            [
+                "2:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 627",
+        "name": "Understanding the Diversity in Disability",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Mariam Haider",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 622",
+        "name": "Educators’ Seminar Series: Special Topics in Teaching and Learning3 LEC",
+        "section": "16W R",
+        "credit": "1",
+        "instructor": "Launa Gauthier",
+        "times": [
+            [
+                "10:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 590",
+        "name": "Observing Schools",
+        "section": "FLD 1",
+        "credit": "1",
+        "instructor": "Daniyal Yousaf",
+        "times": [
+            [
+                "8:00AM",
+                "1:50PM",
+                "FLD"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 560",
+        "name": "Research Methods",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ahmad Ayub",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 5214",
+        "name": "Verification of Digital Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 540",
+        "name": "Leadership: The Politics of Change",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Jamal Haider",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 510",
+        "name": "Interdisciplinary Theoretical Perspectives on Education3 LEC",
+        "section": "16W T",
+        "credit": "1",
+        "instructor": "Tayyaba Tamim",
+        "times": [
+            [
+                "10:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 358",
+        "name": "Sustainable Educational Development",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Wajeeha Hazoor Bajwa",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 353",
+        "name": "Education and Conflict",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hasham Nasir",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 344",
+        "name": "Entrepreneurship in Education",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 343",
+        "name": "Educational Leadership Beyond Schools",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Mehreen Noon",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 272",
+        "name": "Education, Schools and Violence",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Joham Aziz",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 263",
+        "name": "Quantitative Research Methods",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ahmad Ayub",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 536",
+        "name": "Topics in Mathematical Method for Economists4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Syed Zahid Ali",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 531",
+        "name": "Econometrics and Research Methodology I",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Mushtaq Ahmad Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 466",
+        "name": "Financial Crises",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Daud Ahmed Dard",
+        "times": [
+            [
+                "12:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 425",
+        "name": "Privacy and Digital Transformation",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Shmyla Khan",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 444",
+        "name": "Institutional Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Saher Asad",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 342",
+        "name": "Culture, Power and Society",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Amen Jaffer",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 4416",
+        "name": "Advanced Urban Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syed Muhammad Hasan",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6039",
+        "name": "Digital Marketing",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "Khawaja Zain ul Abdin",
+        "times": [
+            [
+                "3:00PM",
+                "4:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 4410",
+        "name": "Issues in Economic Policy",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ijaz Nabi",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 212",
+        "name": "Business Communication",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Shezeen Salim Hemani",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 3903",
+        "name": "International Trade Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 316",
+        "name": "The Occult in Islamic Material Culture",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Tehnyat Majeed",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 2452",
+        "name": "Introduction to Creative Writing",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Naveed Alam",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 427",
+        "name": "Computational Macroeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syed Zahid Ali",
+        "times": [
+            [
+                "4:30PM",
+                "6:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 2202",
+        "name": "The Indian Ocean",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ameem Lutfi",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 363",
+        "name": "Economics of Investment and Finance",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Mohammad Usman Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 351",
+        "name": "International Trade",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "S.M. Turab Hussain",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 330",
+        "name": "Econometrics",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Maham Khalid",
+        "times": [
+            [
+                "3:00PM",
+                "4:30PM",
+                "16W"
+            ],
+            [
+                "2:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "ECON 330",
+        "name": "Econometrics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Maham Khalid",
+        "times": [
+            [
+                "8:00AM",
+                "9:30AM",
+                "16W"
+            ],
+            [
+                "2:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "EDU 210",
+        "name": "Critical Debates in Education",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 330",
+        "name": "Econometrics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Farooq Naseer",
+        "times": [
+            [
+                "10:00AM",
+                "11:30AM",
+                "16W"
+            ],
+            [
+                "3:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "EMBA 6071",
+        "name": "Venture Creation",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Adnan Zahid",
+        "times": [
+            [
+                "2:00PM",
+                "4:05PM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 262",
+        "name": "Mathematical Applications in Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Adeel Tariq",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 261",
+        "name": "Principles of Finance",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sheraz Latif Malik",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 105",
+        "name": "Walk, Jog and Stretch for Fitness",
+        "section": "PRT 2",
+        "credit": "1",
+        "instructor": "Babar Asad Khan",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 260",
+        "name": "Business Law",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Ali Sultan",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 240",
+        "name": "Development Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ayesha Ali",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 233",
+        "name": "Introduction to Game Theory",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Lyyla Khalid",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 233",
+        "name": "Introduction to Game Theory",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Lyyla Khalid",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 5215",
+        "name": "Advanced VLSI Design",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Awais Bin Altaf",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 4102",
+        "name": "Gender and the Labor Market",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hadia Majid",
+        "times": [
+            [
+                "9:30AM",
+                "11:20AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 230",
+        "name": "Statistics and Data Analysis",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Usman Elahi",
+        "times": [
+            [
+                "2:00PM",
+                "3:30PM",
+                "16W"
+            ],
+            [
+                "2:30PM",
+                "3:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "ECON 230",
+        "name": "Statistics and Data Analysis",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Raza Mustafa Khan",
+        "times": [
+            [
+                "5:00PM",
+                "6:30PMMuhammad",
+                "16W"
+            ],
+            [
+                "10:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "EDU 690",
+        "name": "Practicum Proseminar",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Yasira Waqar",
+        "times": [
+            [
+                "2:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 10",
+        "credit": "4",
+        "instructor": "Aneeqa Mazhar Wattoo",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 230",
+        "name": "Statistics and Data Analysis",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Raza Mustafa Khan",
+        "times": [
+            [
+                "2:30PM",
+                "4:00PMMuhammad",
+                "16W"
+            ],
+            [
+                "11:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "PHY 411",
+        "name": "Quantum Optics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Adam Zaman Chaudhry",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 201",
+        "name": "Principles of Marketing",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Komal Zain",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 221",
+        "name": "Intermediate Macroeconomics",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Usman Elahi",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 221",
+        "name": "Intermediate Macroeconomics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Syed Zahid Ali",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 221",
+        "name": "Intermediate Macroeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Antonio Marasco",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 561",
+        "name": "Digital Control Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Abubakr Muhammad",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 211",
+        "name": "Intermediate Microeconomics",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Syed Muhammad Hasan",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 211",
+        "name": "Intermediate Microeconomics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Mushtaq Ahmad Khan",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 211",
+        "name": "Intermediate Microeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Osama Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 433",
+        "name": "Laser Engineering",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Tayyab Imran",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 121",
+        "name": "Principles of Macroeconomics",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Mohammad Usman Khan",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ],
+            [
+                "3:00PM",
+                "3:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 14",
+        "credit": "4",
+        "instructor": "Farhana Shahzad",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 220",
+        "name": "Psychopathology",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Amna Jamshaid",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6061",
+        "name": "Understanding and Managing Self-Identity in Contemporary Organizations0.5 LEC",
+        "section": "8W2 TR",
+        "credit": "1",
+        "instructor": "Muhammad Azfar Nisar",
+        "times": [
+            [
+                "12:30PM",
+                "2:00PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5041",
+        "name": "Marketing Management",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Ehsan Ul Haque",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PM",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 3113",
+        "name": "Labor Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Adeel Tariq",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 121",
+        "name": "Principles of Macroeconomics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Daud Ahmed Dard",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ],
+            [
+                "4:00PM",
+                "4:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "ECON 121",
+        "name": "Principles of Macroeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Kashif Zaheer Malik",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ],
+            [
+                "2:00PM",
+                "2:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "EE 324",
+        "name": "Microcontroller and Interfacing",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "Muhammad Jahangir Ikram",
+        "times": [
+            [
+                "12:30PM",
+                "1:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Nadia Mukhtar Sayed",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ],
+            [
+                "4:00PM",
+                "4:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "SWR 102",
+        "name": "Swimming for Beginners",
+        "section": "PRT 4",
+        "credit": "1",
+        "instructor": "Nimra Nimra",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 388",
+        "name": "Rethinking Data: Cause and Effect in the Humanities4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Muhammad Saad Imtiaz",
+        "times": [
+            [
+                "11:30AM",
+                "1:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 100",
+        "name": "Pre-Calculus",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Syed Zahid Ali",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ],
+            [
+                "3:00PM",
+                "3:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "LAW 222",
+        "name": "Torts",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Uzair Kayani",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ali Cheema",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ],
+            [
+                "2:00PM",
+                "2:50PM",
+                "RAC"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "ECON 100",
+        "name": "Principles of Economics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Nadia Mukhtar Sayed",
+        "times": [
+            [
+                "10:30AM",
+                "12:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 7005",
+        "name": "Applied Statistics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ghufran Ahmad",
+        "times": [
+            [
+                "9:00AM",
+                "12:00PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 481",
+        "name": "Entrepreneurship (13 Jul-13 Aug, University of Baltistan)3 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Sahar Arif",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5041",
+        "name": "Marketing Management",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Ehsan Ul Haque",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 425",
+        "name": "Applied Macroeconomics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Kashif Zaheer Malik",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 335",
+        "name": "Transportation and Logistics Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 333",
+        "name": "Supply Chain and Logistics Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Raja Usman Khalid",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 215",
+        "name": "Great Books in Education",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 331",
+        "name": "Project Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Areeb Abduhoo Pasha",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 325",
+        "name": "Business Data Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ussama Yaqub",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 323",
+        "name": "Decision Behaviour",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "Huda Imtiaz",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 5201B",
+        "name": "Financial Accounting II",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:35PM",
+                "4:30PM",
+                "8W2"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 322",
+        "name": "Optimization Methods in Management Science3 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Kamran Rashid",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 321",
+        "name": "Decision Analysis",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Muhammad Tayyab",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 321",
+        "name": "Decision Analysis",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Tayyab",
+        "times": [
+            [
+                "12:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 472",
+        "name": "Criminal Procedure",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Haider Rasul Mirza",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 320",
+        "name": "Qualitative and Quantitative Methods in Business3 LEC",
+        "section": "16W TR",
+        "credit": "2",
+        "instructor": "Raja Usman Khalid",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6040",
+        "name": "Retail Management",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Qaiser Raza Sheikh",
+        "times": [
+            [
+                "10:30AM",
+                "12:00PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 231",
+        "name": "Operations Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hassan Rauf Chaudhry",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 101",
+        "name": "Islamic Studies",
+        "section": "LEC 5",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MKTG 343",
+        "name": "Marketing Models",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Asim",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 212",
+        "name": "Introduction to Management Science",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Muhammad Tayyab",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 212",
+        "name": "Introduction to Management Science",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Muhammad Adeel Zaffar",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 224",
+        "name": "Arabic II",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hafiz Abdul Qadeer",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 212",
+        "name": "Introduction to Management Science",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Muhammad Adeel Zaffar",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 5301",
+        "name": "Organizations and Leadership",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Ghufran Ahmad",
+        "times": [
+            [
+                "8:30AM",
+                "10:35AMMuhammad",
+                "MS1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 212",
+        "name": "Introduction to Management Science",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Adeel Zaffar",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 203",
+        "name": "Probability and Statistics",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Muhammad Asim",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 682",
+        "name": "Topics in Computer and Network Security",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Fareed Zaffar",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 103",
+        "name": "Strength Training and Conditioning for Beginners1 PRT",
+        "section": "16W TR",
+        "credit": "4",
+        "instructor": "Kanwal Yousaf",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 6712",
+        "name": "Internet Measurements",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Mobin Javed",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 636",
+        "name": "Topics in Data Mining Research",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Asim Karim",
+        "times": [
+            [
+                "12:00PM",
+                "1:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 589",
+        "name": "Recent Developments in Blockchain Technology3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Zartash Afzal Uzmi",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHY 212",
+        "name": "Quantum Mechanics I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Moeez Hassan",
+        "times": [
+            [
+                "1:00PM",
+                "2:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 535",
+        "name": "Machine Learning",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Agha Ali Raza",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 510",
+        "name": "Design and Analysis of Algorithms",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Imdad ullah khan",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 220",
+        "name": "Contracts",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Syeda Zehra Zaidi",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 501",
+        "name": "Applied Probability",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Momin Ayub Uppal",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LANG 2212",
+        "name": "Pashto II",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Imad .",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 466",
+        "name": "Human Computer Interaction",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Suleman Shahid",
+        "times": [
+            [
+                "11:30AM",
+                "12:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENV 132",
+        "name": "Disasters",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 452",
+        "name": "Computer Graphics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Murtaza Taj",
+        "times": [
+            [
+                "4:00PM",
+                "5:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 436",
+        "name": "Computer Vision Fundamentals",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Murtaza Taj",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 370",
+        "name": "Operating Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Hammad Alizai",
+        "times": [
+            [
+                "2:30PM",
+                "3:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 400",
+        "name": "Strategic Business Management",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Muhammad Shafique",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 000",
+        "name": "MBA-Joint Session LEC",
+        "section": "16W F",
+        "credit": "1",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "7:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 340",
+        "name": "Databases",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Naveed Arshad",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5211",
+        "name": "Business Law and Corporate Governance",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Ahmad Rafay Alam",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 100",
+        "name": "Principles of Economics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "S.M. Turab Hussain",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 340",
+        "name": "Databases",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Naveed Arshad",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 334",
+        "name": "Principles and Techniques of Data Science",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ihsan Ayyub Qazi",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 310",
+        "name": "Algorithms",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Junaid Haroon Siddiqui",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 225",
+        "name": "Fundamentals of Computer Systems",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Basit Shafiq",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 225",
+        "name": "Fundamentals of Computer Systems",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Agha Ali Raza",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ECON 4602",
+        "name": "Public Finance",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sher Afghan Asad",
+        "times": [
+            [
+                "12:30PM",
+                "2:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 210",
+        "name": "Discrete Mathematics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Imdad ullah khan",
+        "times": [
+            [
+                "3:30PM",
+                "5:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 326",
+        "name": "Intellectual Property Law",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Maria Farrukh Irfan Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ENGL 3192",
+        "name": "The Wounded Story Teller: Women, Literature, and Medicine4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Sadia Zulfiqar",
+        "times": [
+            [
+                "1:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 202",
+        "name": "Data Structures",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shafay Shamail",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 200",
+        "name": "Introduction to Programming",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Waqar Ahmad",
+        "times": [
+            [
+                "1:00PM",
+                "2:15PM",
+                "16W"
+            ],
+            [
+                "9:30AM",
+                "12:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "CS 200",
+        "name": "Introduction to Programming",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Mian Muhammad Awais",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ],
+            [
+                "1:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "CS 100",
+        "name": "Computational Problem Solving",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Maryam Mustafa",
+        "times": [
+            [
+                "5:00PM",
+                "5:50PM",
+                "16W"
+            ],
+            [
+                "12:00PM",
+                "2:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "ECON 511",
+        "name": "Microeconomic Analysis",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Osama Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 5201",
+        "name": "Business Economics",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "11:00AM",
+                "1:05PM",
+                "MS1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 582",
+        "name": "Distributed Systems",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Zafar Ayyub Qazi",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 100",
+        "name": "Computational Problem Solving",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Nadeem Ahmad Khan",
+        "times": [
+            [
+                "8:00AM",
+                "8:50AM",
+                "16W"
+            ],
+            [
+                "3:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "MECO 7301",
+        "name": "Economic Theory",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "TBA",
+        "times": [
+            [
+                "12:00PM",
+                "3:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 100",
+        "name": "Computational Problem Solving",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Maryam Mustafa",
+        "times": [
+            [
+                "9:30AM",
+                "10:20AM",
+                "16W"
+            ],
+            [
+                "8:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "CS 100",
+        "name": "Computational Problem Solving",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shafay Shamail",
+        "times": [
+            [
+                "10:00AM",
+                "10:50AM",
+                "16W"
+            ],
+            [
+                "3:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 4",
+        "credit": "4",
+        "instructor": "Aamna Khalid",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Abid Raza Khan",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 3211",
+        "name": "Research Seminar in Screen Studies",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Zebunnisa Hamid",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 3123",
+        "name": "Aag ka Darya: A Close Reading",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Nasir Abbas",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2514",
+        "name": "Qavvali",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Ghulam Moeenuddin",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 353",
+        "name": "Human Rights",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2212",
+        "name": "Cinemas of Asia, Africa, and Latin America",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Zebunnisa Hamid",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6060",
+        "name": "Managing Workplace Diversity",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Ayesha Masood",
+        "times": [
+            [
+                "3:00PM",
+                "4:30PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2122",
+        "name": "Urdu Afsana: Manto, Bedi aur Ghulam Abbas kay Afsanon ka Khususi Muta'ala4 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Zia Ul Hassan",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 626",
+        "name": "Slow looking: The practice of learning through careful observation3 LEC",
+        "section": "16W M",
+        "credit": "1",
+        "instructor": "Razia Iram Sadik",
+        "times": [
+            [
+                "9:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2116",
+        "name": "Shahnameh: The Story of Our World",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Fatima Fayyaz",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 1122",
+        "name": "The Art of Reading and Writing Urdu",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Zahid Hussain",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 731",
+        "name": "Selected Topics in Organic Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Saeed",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 721",
+        "name": "Selected Topics in Inorganic Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ghayoor Abbas Chotana",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 532",
+        "name": "Chemistry of Biomolecule",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Saeed",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MECO 111",
+        "name": "Principles of Microeconomics",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Ummad Mazhar",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 370",
+        "name": "Operating Systems",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Muhammad Hammad Alizai",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 531",
+        "name": "Advanced Organic Chemistry I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Irshad Hussain",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5022",
+        "name": "Corporate Finance",
+        "section": "LEC 1",
+        "credit": "1",
+        "instructor": "Syed Mubashir Ali",
+        "times": [
+            [
+                "2:00PM",
+                "4:05PM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 521",
+        "name": "Advanced Inorganic Chemistry I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ghayoor Abbas Chotana",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 513",
+        "name": "Electrochemical Energy Storage and Conversion3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Ali Rauf",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5022",
+        "name": "Corporate Finance",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Syed Mubashir Ali",
+        "times": [
+            [
+                "8:30AM",
+                "10:35AM",
+                "M04"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 6",
+        "credit": "4",
+        "instructor": "Zainab Sattar",
+        "times": [
+            [
+                "8:00AM",
+                "9:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 342",
+        "name": "Analytical Chemistry I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Saeed",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PSY 212",
+        "name": "Theories of Learning",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Imran Rashid",
+        "times": [
+            [
+                "2:30PM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 420",
+        "name": "Business Analytics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Maheen Aamir Syed",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 332",
+        "name": "Chemistry of the Organic Functional Groups",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Rahman Shah Zaib Saleem",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100A",
+        "name": "Introduction to Writing",
+        "section": "LEC 1",
+        "credit": "2",
+        "instructor": "Uzma Safdar",
+        "times": [
+            [
+                "10:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2127",
+        "name": "Progressive Writing in South Asia",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sara Kazmi",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 516",
+        "name": "Characterization Techniques for Materials",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Salman Noshear Arshad",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 324",
+        "name": "Inorganic Chemistry I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Zaheer",
+        "times": [
+            [
+                "11:30AM",
+                "12:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 231",
+        "name": "Fundamentals of Organic Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Irshad Hussain",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 221",
+        "name": "Molecular Symmetry I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Zaheer",
+        "times": [
+            [
+                "2:30PM",
+                "3:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 101",
+        "name": "Islamic Studies",
+        "section": "LEC 3",
+        "credit": "2",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:30PM",
+                "6:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 4812",
+        "name": "Legal Practice II: Legal Instruments",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 101",
+        "name": "Principles of Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Habib-ur- Rehman",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 414",
+        "name": "Deep Learning",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hassan Mohy-ud-Din",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 440",
+        "name": "Chemical Process Design I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Faheem",
+        "times": [
+            [
+                "5:30PM",
+                "6:20PM",
+                "16W"
+            ],
+            [
+                "10:30AM",
+                "4:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": true
+    },
+    {
+        "code": "CHE 430",
+        "name": "Chemical Process Control",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Qandeel Almas",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 252",
+        "name": "Logic and Critical Thinking",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ayesha Masood",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 422",
+        "name": "Chemical Process Safety",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Faheem Hassan Akhtar",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MGMT 384",
+        "name": "Entrepreneurship and Management in the Restaurant Industry3 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Shireen Waheed",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 203",
+        "name": "Probability and Statistics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Asim",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 340",
+        "name": "Transport Phenomena I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Qasim Imtiaz",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 330",
+        "name": "Math Methods in Chemical Engineering II",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Rofice Dickson",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "REL 314",
+        "name": "Islamic Historiography: An Introduction",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syed Baqar Hassan",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 320",
+        "name": "Separation Processes",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Tauqeer Abbas",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 312",
+        "name": "Fundamentals of Environmental Engineering3 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Tauqeer Abbas",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 260",
+        "name": "Principles of Chemical Engineering",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Qandeel Almas",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "FINN 453",
+        "name": "Financial Derivatives",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ferhana Ahmed",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 212",
+        "name": "Biochemical Engineering",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shahana Khurshid",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ORSC 7302",
+        "name": "Applications of Psychology in Management",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Jawad Sarwar Naqvi Syed",
+        "times": [
+            [
+                "10:00AM",
+                "1:00PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EE 452",
+        "name": "Power Electronics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Nauman Ahmad Zaffar",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EDU 274",
+        "name": "Gender Media and Education",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Hasham Nasir",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHE 210",
+        "name": "Physical Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Falak Sher",
+        "times": [
+            [
+                "4:00PM",
+                "5:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 524",
+        "name": "Evolution",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Zaigham Shahzad",
+        "times": [
+            [
+                "10:00AM",
+                "11:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 516",
+        "name": "Advanced Molecular and Cell Biology",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Zaigham Shahzad",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 531",
+        "name": "Computational Biology",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Safee Ullah Chaudhary",
+        "times": [
+            [
+                "1:30PM",
+                "2:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 511",
+        "name": "Fundamentals of Molecular Techniques",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Shoaib",
+        "times": [
+            [
+                "1:00PM",
+                "2:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6045",
+        "name": "Brand Management",
+        "section": "LEC 2",
+        "credit": "0.5",
+        "instructor": "TBA",
+        "times": [
+            [
+                "8:30AM",
+                "10:00AM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 403",
+        "name": "Critical Thinking, Scientific Writing and Ethics3 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Muhammad Shoaib",
+        "times": [
+            [
+                "11:30AM",
+                "12:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 401",
+        "name": "Seminars in Biology",
+        "section": "SEM 1",
+        "credit": "1",
+        "instructor": "Khurram Bashir",
+        "times": [
+            [
+                "11:30AM",
+                "12:20PM",
+                "SEM"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 331",
+        "name": "Computational Biology II",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Safee Ullah Chaudhary",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 102",
+        "name": "Calculus II",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Masood Hussain Shah",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 313",
+        "name": "Cell Biology",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Khurram Bashir",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CHEM 314",
+        "name": "Quantum Chemistry",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Habib-ur- Rehman",
+        "times": [
+            [
+                "9:00AM",
+                "10:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 221",
+        "name": "Genetics",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Khurram Bashir",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SS 100",
+        "name": "Writing and Communication",
+        "section": "LEC 12",
+        "credit": "4",
+        "instructor": "Hajra Ikram Butt",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "LAW 102",
+        "name": "Introduction to Pakistan Legal System",
+        "section": "LEC 3",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 216",
+        "name": "Molecular Biology",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Muhammad Shoaib",
+        "times": [
+            [
+                "3:00PM",
+                "4:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 8301",
+        "name": "Seminar in Operations and Supply Chain Strategy3 SEM",
+        "section": "16W W",
+        "credit": "1",
+        "instructor": "Shakeel Sadiq Jajja",
+        "times": [
+            [
+                "1:00PM",
+                "4:00PMMuhammad",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "BIO 101",
+        "name": "Introductory Biology",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Safee Ullah Chaudhary",
+        "times": [
+            [
+                "8:00AM",
+                "9:15AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 312",
+        "name": "Modernity as a Way of Life",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Lukas Albert Paul Werth",
+        "times": [
+            [
+                "1:30PM",
+                "3:20PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 276",
+        "name": "Anthropology of Social Media",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Rabia Kamal",
+        "times": [
+            [
+                "6:00PM",
+                "7:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 331",
+        "name": "Pakistan's Foreign Relations",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Iqbal Ahmad Khan",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 266",
+        "name": "Kinship: Making Sense of Human Relations",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syeedda Anjum Ara Alvi",
+        "times": [
+            [
+                "10:00AM",
+                "11:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 263",
+        "name": "Food and Culture",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Sadaf Ahmad",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 203",
+        "name": "Western Political Philosophy",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 237",
+        "name": "Economic Anthropology: An Introduction",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Syeedda Anjum Ara Alvi",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CLCS 2133",
+        "name": "Fountain of the Sun: Rumi’s Masnavi and Divan4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "Fatima Fayyaz",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 100",
+        "name": "Introduction to Cultural Anthropology",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Ghazal Asif",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ANTH 100",
+        "name": "Introduction to Cultural Anthropology",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Lukas Albert Paul Werth",
+        "times": [
+            [
+                "3:00PM",
+                "4:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "POL 228",
+        "name": "Introduction to Quantative Research Method4 LEC",
+        "section": "16W TR",
+        "credit": "1",
+        "instructor": "TBA",
+        "times": [
+            [
+                "2:00PM",
+                "3:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACF 5101",
+        "name": "Financial Management and Accounting",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Syed Mubashir Ali",
+        "times": [
+            [
+                "11:30AM",
+                "1:30PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MBA 6025",
+        "name": "Investments",
+        "section": "LEC 1",
+        "credit": "0.5",
+        "instructor": "Syed Aun Raza Rizvi",
+        "times": [
+            [
+                "5:15PM",
+                "6:45PM",
+                "8W1"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACF 2101",
+        "name": "Introduction to Finance and Accounting",
+        "section": "LEC 1",
+        "credit": "1.5",
+        "instructor": "Omair Haroon",
+        "times": [
+            [
+                "4:50PM",
+                "6:40PM",
+                "MS-"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 482",
+        "name": "Governance, Risk and Compliance",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Saira Rizwan",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 370",
+        "name": "Applied Taxation",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Huzaima Bukhari",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "DISC 420",
+        "name": "Business Analytics",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Maheen Aamir Syed",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 310",
+        "name": "Algorithms",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Junaid Haroon Siddiqui",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 220",
+        "name": "Corporate Financial Reporting I",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Samia Ahmed Ali",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 220",
+        "name": "Corporate Financial Reporting I",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Samia Ahmed Ali",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 202",
+        "name": "Theory and Concepts of Accounting - Islamic Perspective3 LEC",
+        "section": "16W MW",
+        "credit": "1",
+        "instructor": "Abdul Rauf",
+        "times": [
+            [
+                "4:30PM",
+                "5:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SOC 243",
+        "name": "Politics of Class and Markets",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Umair Javed",
+        "times": [
+            [
+                "12:00PM",
+                "1:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 6",
+        "credit": "3",
+        "instructor": "Saira Rizwan",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "SWR 104",
+        "name": "Basketball for beginners",
+        "section": "PRT 2",
+        "credit": "1",
+        "instructor": "Mohsin Riaz",
+        "times": [
+            [
+                "5:15PM",
+                "6:30PM",
+                "PRT"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "HIST 102",
+        "name": "Introduction to World History",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Hassan Haider Karrar",
+        "times": [
+            [
+                "9:00AM",
+                "10:50AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 5",
+        "credit": "3",
+        "instructor": "Saira Rizwan",
+        "times": [
+            [
+                "5:00PM",
+                "6:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Samia Ahmed Ali",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Samia Ahmed Ali",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "CS 210",
+        "name": "Discrete Mathematics",
+        "section": "LEC 2",
+        "credit": "4",
+        "instructor": "Basit Shafiq",
+        "times": [
+            [
+                "11:00AM",
+                "12:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Mahin Moazzam",
+        "times": [
+            [
+                "12:30PM",
+                "1:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 130",
+        "name": "Principles of Management Accounting",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Mahin Moazzam",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "EMBA 5063",
+        "name": "Problem Solving and Decision Making",
+        "section": "LEC 2",
+        "credit": "1",
+        "instructor": "Jamshed Hasan Khan",
+        "times": [
+            [
+                "10:55AM",
+                "1:00PM",
+                "M01"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 6",
+        "credit": "3",
+        "instructor": "Zainab Mehmood",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "MATH 231",
+        "name": "Statistics",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Shaheena Bashir",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 5",
+        "credit": "3",
+        "instructor": "Zainab Mehmood",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 4",
+        "credit": "3",
+        "instructor": "Ayesha Bhatti",
+        "times": [
+            [
+                "3:30PM",
+                "4:45PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 3",
+        "credit": "3",
+        "instructor": "Ayesha Bhatti",
+        "times": [
+            [
+                "2:00PM",
+                "3:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 2",
+        "credit": "3",
+        "instructor": "Ayesha Bhatti",
+        "times": [
+            [
+                "11:00AM",
+                "12:15PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "PHIL 132",
+        "name": "Introduction to Logic",
+        "section": "LEC 1",
+        "credit": "4",
+        "instructor": "Muhammad Shabbir Ahsen",
+        "times": [
+            [
+                "4:00PM",
+                "5:50PM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    },
+    {
+        "code": "ACCT 100",
+        "name": "Principles of Financial Accounting",
+        "section": "LEC 1",
+        "credit": "3",
+        "instructor": "Ayesha Bhatti",
+        "times": [
+            [
+                "9:30AM",
+                "10:45AM",
+                "16W"
+            ]
+        ],
+        "hasLab": false
+    }
+]
