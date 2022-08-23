@@ -73,7 +73,6 @@ const accum = (bi, buckets, currentCourseStack, clashFreeWeeks) => {
 }
 
 const getClashFreeWeeks = (buckets) => {
-    let attempts = {value: 0}
     let clashFreeWeeks = []
     let currentCourseStack = []
     accum(0, buckets, currentCourseStack, clashFreeWeeks)
