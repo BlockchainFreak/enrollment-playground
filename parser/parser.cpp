@@ -73,7 +73,7 @@ bool isTime(string& str){
 }
 
 bool isWeekDay(string& str){
-    regex day("(.*)[MTWRFSU]{1,7}?(.*)");
+    regex day("[MTWRFSU]{1,7}?");
     return regex_match(str, day);
 }
 
@@ -120,7 +120,7 @@ pair<string, string> resolveKey(string str) {
 
 string getLectureCode(string str){
     auto [code, section] = resolveKey(str);
-    return code + "|LEC" + section.substr(3);
+    return code + "|" + section.replace(0,3, "LEC");
 }
 
 int main() {
@@ -186,8 +186,8 @@ int main() {
             int startIdx = findEntity(entities, isTime, daysIdx);
 
             string start = entities[startIdx]; 
-            string end = entities[startIdx + 1]; 
-            string credit = entities[creditIdx]; 
+            string end = entities[startIdx + 1].substr(0,6); 
+            string credit = entities[creditIdx];
             string days = entities[daysIdx];
 
             string code = join(entities, 0, 1);
@@ -207,7 +207,8 @@ int main() {
     for(auto& itr: courses){
         string section = itr.second->section.substr(0,3);
         if(section == "LAB" || section == "RAC"){
-            string lectureCode = getLectureCode(itr.first); 
+            string lectureCode = getLectureCode(itr.first);
+            cout << lectureCode << '\n';
             if(courses.find(lectureCode) != courses.end()){
                 courses[lectureCode]->addLab(*itr.second);
             }
@@ -215,15 +216,15 @@ int main() {
     }
 
     fstream jsonFile("coursesApi.json", ios::out);
-    jsonFile << "[\n\n";
+    jsonFile << "{\n\n";
     for(auto &itr: courses){
         string section = itr.second->section.substr(0,3);
         if(!(section == "LAB" || section == "RAC")){
-            jsonFile << itr.second->getJson() + ",\n";
+            jsonFile << "\"" + itr.first + "\": " + itr.second->getJson() + ",\n";
         }
         delete itr.second;
     }
-    jsonFile << "\n]";
+    jsonFile << "\n}";
     jsonFile.close();
     return 0;
 }

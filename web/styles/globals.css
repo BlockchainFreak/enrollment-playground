@@ -1,0 +1,104 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: black;
+    background: white;
+  }
+}
+
+.bucket {
+  border-radius: 5px;
+  min-height: 90vh;
+  max-width: 13vw;
+  display: flex;
+  flex-direction: column;
+  margin: 0.5vw;
+  padding: 0.5vw;
+  background-color: #8338ec;
+}
+
+.course {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5vw;
+  padding: 0.5vw;
+  background-color: #9157e3;
+  border-radius: 5px;
+}
+
+.course-text {
+  font-size: 1vw;
+}
+
+
+.drag-n-drop {
+  padding: .5rem;
+  display: flex;
+  flex-direction: row;
+  gap: .5rem;
+  width: 100%;
+  height: 100%;
+  align-items: flex-start;
+  background-color: #9e86c1;
+  overflow: auto;
+}
+.dnd-group {
+  background-color: #49188e;
+  min-height: 90vh;
+  max-height: 90vh;
+  min-width: 300px;
+  border-radius: 5px;
+  padding: .5rem;
+  overflow: auto;
+}
+.dnd-item {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 150px;
+  background-color: #a157f3;
+  border-radius: 5px;
+  color: #282c34;
+  font-weight: bold;
+  padding: 10px;
+}
+.dnd-item:not(:last-of-type) {
+  margin-bottom: .5rem;
+}
+.dnd-item * {  
+  margin: 0;
+  font-size: 1.2rem;
+}
+.group-title {
+  text-align: left;
+  margin-bottom: .5rem;
+  font-size: 1.5rem;
+}
+.current {
+  background-color: #282c34;
+  color: transparent;
+  padding: 10px;
+}
+
+
+

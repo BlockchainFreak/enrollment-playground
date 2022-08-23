@@ -19,7 +19,7 @@ ACCT 220  Corporate Financial Reporting I 3 LEC 2 16W MW 12:30PM 1:45PM Samia Ah
 ACCT 370  Applied Taxation 3 LEC 1 16W MW 11:00AM 12:15PM Huzaima Bukhari
 ACCT 482  Governance, Risk and Compliance 3 LEC 1 16W TR 3:30PM 4:45PM Saira Rizwan
 ACF 2101  Introduction to Finance and Accounting 1.5 LEC 1 MS-
-SDSB(10D)MTWRFSU 4:50PM 6:40PM Omair Haroon
+SDSB(10D) MTWRFSU 4:50PM 6:40PM Omair Haroon
 ACF 5101  Financial Management and Accounting 3 LEC 1 16W MW 11:30AM 1:30PM Syed Mubashir Ali
 ANTH 100  Introduction to Cultural Anthropology 4 LEC 1 16W MW 3:00PM 4:50PM Lukas Albert Paul Werth
 ANTH 100  Introduction to Cultural Anthropology 4 LEC 2 16W TR 2:00PM 3:50PM Ghazal Asif
@@ -493,7 +493,7 @@ LAW 3902  Principles of Competition Law 4 LEC 1 16W MW 10:00AM 11:50AM Khadija A
 LAW 3903  International Trade Law 4 LEC 1 16W TR 2:00PM 3:50PM TBA
 LAW 4212  Company Law 4 LEC 1 16W MW 4:00PM 5:50PM Ali Awais
 LAW 424 Law and Practice of International 
-Commercial Arbitration4 LEC 1 16W MW 4:00PM 5:50PMMuhammad Umer Akram 
+Commercial Arbitration4 LEC 1 16W MW 4:00PM 5:50PM Muhammad Umer Akram 
 Chaudhry
 LAW 425  Privacy and Digital Transformation 4 LEC 1 16W TR 6:00PM 7:50PM Shmyla Khan
 LAW 4302 Death, Rebirth, and Renewal: The Fragile 
@@ -628,7 +628,7 @@ MECO 111  Principles of Microeconomics 3 LEC 5 16W TR 8:00AM 9:15AM Abid Raza Kh
 MECO 111  Principles of Microeconomics 3 LEC 6 16W MW 3:30PM 4:45PM Abid Raza Khan
 MECO 
 2201 Introduction to Business Economics 1.5 LEC 1 MS-
-SDSB(10D)MTWRFSU 10:50AM 12:40PM Syed Zahid Ali
+SDSB(10D) MTWRFSU 10:50AM 12:40PM Syed Zahid Ali
 MECO 
 5201 Business Economics 3 LEC 1 16W MW 9:00AM 11:00AM TBA
 MECO 
@@ -661,7 +661,7 @@ MGMT 260  Business Law 3 LEC 2 16W MW 9:30AM 10:45AM Ali Sultan
 MGMT 260  Business Law 3 LEC 3 16W MW 11:00AM 12:15PM Ali Sultan
 MGMT 
 2601 Introduction to Management 1.5 LEC 1 MS-
-SDSB(10D)MTWRFSU 9:30AM 11:20AM Ghulam Ali Arain
+SDSB(10D) MTWRFSU 9:30AM 11:20AM Ghulam Ali Arain
 MGMT 261  Introduction to Policy Analysis 3 LEC 1 16W TR 12:30PM 1:45PM Ghazal Mir Zulfiqar
 MGMT 348  Internet Governance and Technology Policy 3 LEC 1 16W WF 5:00PM 6:15PM Gulalai Khan
 MGMT 373  Personal Effectiveness 3 LEC 1 16W MW 8:00AM 9:15AM Atif Rahim Khan
@@ -685,7 +685,7 @@ MKTG 201  Principles of Marketing 3 LEC 4 16W MW 12:30PM 1:45PM Aman Abid
 MKTG 222  Retail Management 3 LEC 1 16W TR 9:30AM 10:45AM Saadia Raza Bukhari
 MKTG 
 2401 Introduction to Marketing 1.5 LEC 1 MS-
-SDSB(10D)MTWRFSU 2:30PM 4:20PM Saima Mujtaba Rana
+SDSB(10D) MTWRFSU 2:30PM 4:20PM Saima Mujtaba Rana
 MKTG 324  Integrated Marketing Communications 3 LEC 1 16W MW 3:30PM 4:45PM Khawaja  Zain ul Abdin
 MKTG 332  Consumer Behaviour 3 LEC 1 16W WF 9:30AM 10:45AM Saima Mujtaba Rana
 MKTG 343  Marketing Models 3 LEC 1 16W MW 9:30AM 10:45AM Muhammad Asim
