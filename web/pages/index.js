@@ -1,22 +1,30 @@
-import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import { Container, Box, IconButton, Button } from '@mui/material'
+import { Button, Snackbar, Alert } from '@mui/material'
 import MemoryIcon from '@mui/icons-material/Memory';
+import NotesIcon from '@mui/icons-material/Notes';
+import BackspaceIcon from '@mui/icons-material/Backspace';
 import Bucket from '../components/Bucket'
 import CourseSearchBar from '../components/CourseSearchBar'
 import ClashFreeCourses from '../components/ClashFreeCourses'
+import Demo from '../components/Demo';
 import useModal from '../hooks/useModal'
 import { useState, useEffect, useRef } from 'react'
 
-const defaultData = [[], [], [], [], [], [], []]
+let getDefault = () => [[], [], [], [], [], [], []]
 
 export default function Home() {
     const [data, setData] = useState(testData)
+    const [storage, setStorage] = useState(undefined)
+
+    const [alert, SetAlert] = useState({
+        message: '', severity: 0
+    })
+
     const [modal, setModal, AddModal] = useModal(null)
     const [isFiltering, setIsFiltering, ResolvingModal] = useModal(null)
-    const [storage, setStorage] = useState(undefined)
-    const cachedSearchValue = useRef()
+    const [demo, setDemo, DemoModal] = useModal(true)
+
+    const cachedSearchValue = useRef('')
     
     useEffect(() => {
         async function fetcher() {
@@ -27,29 +35,88 @@ export default function Home() {
         fetcher()
     }, [])
 
-  return(
-      <main>
-        <Bucket {...{data, setModal}} />
-        <AddModal>
-            <CourseSearchBar {...{modal, setModal, data, setData, storage, cachedSearchValue}}/>
-        </AddModal>
-        <ResolvingModal>
-            <ClashFreeCourses {...{setIsFiltering, storage, data}}/>
-        </ResolvingModal>
-        <Button 
-            onClick={() => setIsFiltering(1)}
-            variant='contained'
-            sx={{
-                position: "fixed",
-                left: '30px',
-                bottom: '30px',
-                // bgcolor: 'orange'
-            }}
-        >
-            <MemoryIcon size='large'/>
-            Process
-        </Button>
-      </main>
+    const handleProcessRequest = () => {
+        if(data[0].length === 0){
+            SetAlert({message:'No courses added to bucket', severity: 2})
+        }
+        else if(data[0].length < 2 || data[1].length < 2){
+            SetAlert({message:'Courses are Insufficient.', severity: 1})
+        } else {
+            setIsFiltering(1)
+        }
+    }
+
+    const handleAlertClose = () => {
+        SetAlert({message:'', severity: 0})
+    }
+
+    const clearAll = () => {
+        setData(data => {
+            const newdata = [...data]
+            newdata.map((bucket) => {bucket.splice(0,bucket.length)})
+            return newdata
+        })
+    }
+
+    return(
+        <main>
+            <Bucket {...{data, setData, setModal}} />
+            <AddModal>
+                <CourseSearchBar {...{modal, setModal, data, setData, storage, cachedSearchValue}}/>
+            </AddModal>
+            <ResolvingModal>
+                <ClashFreeCourses {...{setIsFiltering, storage, data}}/>
+            </ResolvingModal>
+            <DemoModal>
+                <Demo setDemo={setDemo}/>
+            </DemoModal>
+            <Button 
+                onClick={handleProcessRequest}
+                variant='contained'
+                color='success'
+                sx={{
+                    position: "fixed",
+                    right: '20px',
+                    bottom: '20px',
+                }}
+            >
+                <MemoryIcon/>
+                Process
+            </Button>
+            <Button 
+                onClick={() => setDemo(1)}
+                variant='contained'
+                color='secondary'
+                sx={{
+                    position: "fixed",
+                    right: '160px',
+                    bottom: '20px',
+                }}
+            >
+                <NotesIcon/>
+                Guide
+            </Button>
+            <Button
+                onClick={() => {setData(getDefault())}}
+                variant='contained'
+                color='secondary'
+                sx={{
+                    position: "fixed",
+                    right: '275px',
+                    bottom: '20px',
+                }}
+            >
+                Clear All
+                <BackspaceIcon sx={{marginLeft: '10px'}}/>
+            </Button>
+            <Snackbar open={Boolean(alert.severity)} autoHideDuration={2500} onClose={handleAlertClose}>
+                <Alert onClose={handleAlertClose}
+                severity={alert.severity === 2 ? 'error' : 'warning'} 
+                sx={{ width: '100%' }}>
+                {alert.message}
+                </Alert>
+        </Snackbar>
+        </main>
   )
 }
 

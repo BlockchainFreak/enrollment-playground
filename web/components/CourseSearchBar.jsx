@@ -2,7 +2,6 @@ import { useEffect, useState, memo } from 'react'
 import {Table, TableBody, TableCell, TableContainer, TableHead, 
 TableRow, Paper, TextField, IconButton, Button  } from '@mui/material'
 import CloseIcon from '@mui/icons-material/Close';
-import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 
 function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchValue}){
     const [code, setCode] = useState(cachedSearchValue.current ? cachedSearchValue.current : '')
@@ -37,7 +36,7 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
     }
 
     useEffect(() => {
-        if(code.length < 5) {
+        if(code.length < 4) {
             setFilteredCourses([])
             if (error) setError(false)
             return;
@@ -50,7 +49,7 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
             setFilteredCourses([])
         }
         setFilteredCourses([...filtered])
-    }, [code])
+    }, [code, error, storage])
 
     return(
         <>
@@ -87,7 +86,7 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
                             key={row.name + row.section}
                             sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
                             >
-                            <TableCell component="th" scope="row">{index}</TableCell>
+                            <TableCell component="th" scope="row">{index + 1}</TableCell>
                             <TableCell>{row.code}</TableCell>
                             <TableCell>{row.section}</TableCell>
                             <TableCell>{row.name}</TableCell>

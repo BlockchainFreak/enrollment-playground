@@ -1,6 +1,6 @@
-import {useEffect, useState, useRef} from 'react'
+import {useEffect, useState} from 'react'
 import {Table, TableBody, TableCell, TableContainer, TableHead, Box, LinearProgress,
-TableRow, Paper, TextField, IconButton, Button, Typography, Pagination } from '@mui/material'
+TableRow, Paper, IconButton, Button, Typography, Pagination } from '@mui/material'
 import getClashFreeWeeks from '../scripts/resolvers'
 import CloseIcon from '@mui/icons-material/Close';
 
@@ -23,7 +23,7 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
             }
             setProgress(p => p+1)
         }, Math.min(freeWeeksLength, 60))
-    }, [])
+    }, [data, progress])
 
     const getProgress = () => Math.min(progress, 100)
 
@@ -67,7 +67,7 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
                                 key={courseKey}
                                 sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
                                 >
-                                <TableCell component="th" scope="row">{index}</TableCell>
+                                <TableCell component="th" scope="row">{index + 1}</TableCell>
                                 <TableCell>{course.code}</TableCell>
                                 <TableCell>{course.section}</TableCell>
                                 <TableCell>{course.name}</TableCell>
@@ -85,7 +85,7 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
             </Paper>
             <Pagination
                 sx={{position: 'absolute', right: '30px', bottom: '30px'}}
-                color="primary"
+                color="standard"
                 count={clashFreeWeeks.length}
                 page={currentWeek}
                 onChange={(e, value) => setCurrentWeek(value)}

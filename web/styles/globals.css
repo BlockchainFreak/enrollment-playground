@@ -20,8 +20,8 @@ a {
     color-scheme: dark;
   }
   body {
-    color: black;
-    background: white;
+    color: rgba(f, f, f, 0.12);
+    background: black;
   }
 }
 
@@ -33,7 +33,6 @@ a {
   flex-direction: column;
   margin: 0.5vw;
   padding: 0.5vw;
-  background-color: #8338ec;
 }
 
 .course {
@@ -41,7 +40,6 @@ a {
   flex-direction: column;
   margin: 0.5vw;
   padding: 0.5vw;
-  background-color: #9157e3;
   border-radius: 5px;
 }
 
@@ -51,23 +49,24 @@ a {
 
 
 .drag-n-drop {
-  padding: .5rem;
+  padding: 1rem;
+  padding-bottom: 3rem;
   display: flex;
   flex-direction: row;
   gap: .5rem;
   width: 100%;
   height: 100%;
   align-items: flex-start;
-  background-color: #9e86c1;
+  background-color: #151515;
   overflow: auto;
 }
 .dnd-group {
-  background-color: #49188e;
   min-height: 90vh;
   max-height: 90vh;
   min-width: 300px;
   border-radius: 5px;
   padding: .5rem;
+  background-color: #252525;
   overflow: auto;
 }
 .dnd-item {
@@ -76,11 +75,10 @@ a {
   justify-content: center;
   align-items: center;
   min-height: 150px;
-  background-color: #a157f3;
   border-radius: 5px;
-  color: #282c34;
   font-weight: bold;
   padding: 10px;
+  background-color: #37373D;
 }
 .dnd-item:not(:last-of-type) {
   margin-bottom: .5rem;
@@ -89,16 +87,5 @@ a {
   margin: 0;
   font-size: 1.2rem;
 }
-.group-title {
-  text-align: left;
-  margin-bottom: .5rem;
-  font-size: 1.5rem;
-}
-.current {
-  background-color: #282c34;
-  color: transparent;
-  padding: 10px;
-}
-
 
 

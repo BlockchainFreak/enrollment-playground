@@ -11,7 +11,6 @@ const parseTime = (str) => {
     return digits
 }
 
-
 const createClasses = (times, classes) => {
     const startTime = parseTime(times[0])
     const endTime = parseTime(times[1])
@@ -45,9 +44,7 @@ const sortWeek = (week) => {
 }
 
 const isWeekClashing = (week) => {
-    week.map(day => {if(day.length > 1)console.log('before', day)})
     sortWeek(week)
-    week.map(day => {if(day.length > 1)console.log('after', day)})
     for(let d = 0; d<week.length ; ++d){
         const day = week[d]
         for(let i = 1; i<day.length ; ++i){
@@ -59,11 +56,9 @@ const isWeekClashing = (week) => {
 }
 
 const accum = (bi, buckets, currentCourseStack, clashFreeWeeks) => {
-    // console.log({bi, currentCourseStack, clashFreeWeeks})
     if(bi >= buckets.length || buckets[bi].length === 0){
         const currentWeek = createWeek(currentCourseStack)
         const clashes = isWeekClashing(currentWeek)
-        // console.log(clashes, currentWeek)
         if(clashes === false){
             clashFreeWeeks.push([...currentCourseStack.map(c => c.code + '|' + c.section)])
         } 
