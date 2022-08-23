@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Enrollment Helper</title>
-        <meta property='og:image' content='../data/preview.jpg' />
+        <meta property='og:image' content='https://i.ibb.co/BtfJZL8/preview.jpg'/>
         <meta property='og:description' content="Find clash-free schedules"/>
       </Head>
       <ThemeProvider theme={theme}>
