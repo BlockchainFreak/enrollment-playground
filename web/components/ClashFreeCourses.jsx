@@ -18,15 +18,14 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
         const freeWeeks = getClashFreeWeeks(data)
         setClashFreeWeeks(freeWeeks)
         const freeWeeksLength = freeWeeks.length
-
+        if(progress) return
         const incrementInterval = setInterval(() => {
             if(progress >= 100){
                 clearInterval(incrementInterval)
             }
             setProgress(p => p+1)
-        // }, Math.min(freeWeeksLength, 60))
-        }, Math.min(freeWeeksLength, 10))
-    }, [data])
+        }, Math.min(freeWeeksLength, 60))
+    }, [data, progress])
 
     const getProgress = () => Math.min(progress, 100)
 

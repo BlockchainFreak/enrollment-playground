@@ -30,11 +30,10 @@ export default function WeekTable({ courses, storage }) {
             })
         })
         setTableMap(tableMap)
-    }, [courses])
+    }, [courses, storage])
 
     if(!tableMap) return null
 
-    console.log(tableMap)
     return (
         <div style={{
             overflowY: 'auto', 
@@ -59,13 +58,13 @@ export default function WeekTable({ courses, storage }) {
                     </tr>
                     {
                         tableMap.map((row, rowI) => (
-                            <tr>
+                            <tr key={rowI}>
                                 <td style={SXheadcell}>{`${rowI + 8}:00`}</td>
                                 {
                                     row.map((cell, colI) => {
                                         if(cell){
                                             if(cell === 1) return <td/>
-                                            return <td rowSpan={cell.rowspan}>
+                                            return <td rowSpan={cell.rowspan} key={colI}>
                                                 <CourseCell 
                                                     course={cell.course} 
                                                     time={cell.time}
