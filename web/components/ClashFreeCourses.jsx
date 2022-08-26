@@ -1,15 +1,17 @@
 import {useEffect, useState} from 'react'
 import {Table, TableBody, TableCell, TableContainer, TableHead, Box, LinearProgress,
 TableRow, Paper, IconButton, Button, Typography, Pagination } from '@mui/material'
-import getClashFreeWeeks from '../scripts/resolvers'
-import CloseIcon from '@mui/icons-material/Close';
-
+import getClashFreeWeeks from '../src/resolvers'
+import CloseIcon from '@mui/icons-material/Close'
+import TableViewIcon from '@mui/icons-material/TableView'
+import FormatListNumberedIcon from '@mui/icons-material/FormatListNumbered';
+import WeekTable from './WeekTable'
 
 export default function ClashFreeCourses({setIsFiltering, storage, data}) {
   
     const [currentWeek, setCurrentWeek] = useState(1)
     const [clashFreeWeeks, setClashFreeWeeks] = useState([])
-
+    const [listView, setListView] = useState(false)
     const [progress, setProgress] = useState(0)
 
     useEffect(() => {
@@ -22,8 +24,9 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
                 clearInterval(incrementInterval)
             }
             setProgress(p => p+1)
-        }, Math.min(freeWeeksLength, 60))
-    }, [data, progress])
+        // }, Math.min(freeWeeksLength, 60))
+        }, Math.min(freeWeeksLength, 10))
+    }, [data])
 
     const getProgress = () => Math.min(progress, 100)
 
@@ -43,9 +46,9 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
 
     return(
         <>
-            <Paper>
+            {listView ? (<Paper>
                 <TableContainer component={Paper} sx={{maxHeight: "calc(90vh - 150px)"}}>
-                    <Table sx={{ minWidth: 650 }} size="small" stickyHeader>
+                    <Table sx={{ minWidth: 650 }} size="medium" stickyHeader>
                         <TableHead>
                         <TableRow>
                             <TableCell>#</TableCell>
@@ -82,9 +85,11 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
                         </TableBody>
                     </Table>
                 </TableContainer>
-            </Paper>
+            </Paper>) : (
+                <WeekTable courses={clashFreeWeeks[currentWeek - 1]} storage={storage}/>
+            )}
             <Pagination
-                sx={{position: 'absolute', right: '30px', bottom: '30px'}}
+                sx={{position: 'absolute', right: '30px', bottom: '20px'}}
                 color="standard"
                 count={clashFreeWeeks.length}
                 page={currentWeek}
@@ -100,6 +105,18 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
             >
                 <CloseIcon size="large"/>
             </IconButton>
+            <Button
+                variant='contained'
+                color='success'
+                onClick={() => setListView(s => !s)}
+                sx={{position: 'absolute', bottom: '20px', left: '20px', minWidth: '160px'}}
+            >
+                {listView ? (
+                    <>Table View <TableViewIcon sx={{marginLeft: '5px'}}/></>
+                ) : (
+                    <>List View <FormatListNumberedIcon sx={{marginLeft: '5px'}}/></>
+                )}
+            </Button>
         </>
     )
 }

@@ -1,8 +1,6 @@
-let data = require("../data/coursesApi.json")
+export const dayMap = {M:0, T:1, W:2, R:3, F:4, S:5, U:6}
 
-const dayMap = {M:0, T:1, W:2, R:3, F:4, S:5, U:6}
-
-const parseTime = (str) => {
+export const parseTime = (str) => {
     let digits = str.split('').filter(c => (c>=0 && c<=9)).join('')
     digits = Number(digits)
     if(str.indexOf('P') !== -1 && digits < 1200 ){
