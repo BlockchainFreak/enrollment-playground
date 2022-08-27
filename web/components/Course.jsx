@@ -18,18 +18,18 @@ export default function course({
                 <DeleteIcon size="large" sx={{color: "white"}}/>
             </IconButton>
             <Stack>
-                <Typography sx={{fontSize: "1vw"}} textAlign='center'>
+                <Typography variant='body1' textAlign='center'>
                     <strong>{code} - {section}</strong>
                 </Typography>
-                <Typography sx={{fontSize: "1vw"}} textAlign='center'>
+                <Typography variant='body1' textAlign='center'>
                     {name}
                 </Typography>
-                <Typography sx={{fontSize: "1vw"}} textAlign='center'>
+                <Typography variant='body1' textAlign='center'>
                     {instructor}
                 </Typography>
                 {
                     times?.map((time, idx) => (
-                        <Typography key={idx} textAlign='center' sx={{fontSize: "0.9vw"}}>
+                        <Typography key={idx} textAlign='center' variant='body2'>
                             {time[0]}-{time[1]} {time[2]}
                         </Typography>
                     ))

@@ -10,38 +10,16 @@ import WeekTable from './WeekTable'
 export default function ClashFreeCourses({setIsFiltering, storage, data}) {
   
     const [currentWeek, setCurrentWeek] = useState(1)
-    const [clashFreeWeeks, setClashFreeWeeks] = useState([])
+    const [clashFreeWeeks, setClashFreeWeeks] = useState(null)
     const [listView, setListView] = useState(false)
-    const [progress, setProgress] = useState(0)
 
     useEffect(() => {
         const freeWeeks = getClashFreeWeeks(data)
         setClashFreeWeeks(freeWeeks)
         const freeWeeksLength = freeWeeks.length
-        if(progress) return
-        const incrementInterval = setInterval(() => {
-            if(progress >= 100){
-                clearInterval(incrementInterval)
-            }
-            setProgress(p => p+1)
-        }, Math.min(freeWeeksLength, 60))
-    }, [data, progress])
+    }, [data])
 
-    const getProgress = () => Math.min(progress, 100)
-
-    if(progress < 120){
-        return(
-            <>
-                <Box sx={{height: "30vh",}} />
-                <LinearProgressWithLabel value={getProgress()}/>
-                <Box textAlign='center'>
-                    <Button variant='contained'color='success'>
-                        Clash-Free Weeks Found: {Math.round(getProgress()/100 * clashFreeWeeks?.length)}
-                    </Button>
-                </Box>
-            </>
-        )
-    }
+    if(clashFreeWeeks === null) return null
 
     return(
         <>
@@ -119,18 +97,3 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
         </>
     )
 }
-
-function LinearProgressWithLabel(props) {
-    return (
-      <Box sx={{ display: 'flex', alignItems: 'center' }}>
-        <Box sx={{ width: '100%', mr: 1 }}>
-          <LinearProgress variant="determinate" {...props} />
-        </Box>
-        <Box sx={{ minWidth: 35 }}>
-          <Typography variant="body2" color="text.secondary">{`${Math.round(
-            props.value,
-          )}%`}</Typography>
-        </Box>
-      </Box>
-    );
-  }
