@@ -22,7 +22,7 @@ export default function Home() {
 
     const [modal, setModal, AddModal] = useModal(null)
     const [isFiltering, setIsFiltering, ResolvingModal] = useModal(null)
-    const [demo, setDemo, DemoModal] = useModal(true)
+    const [demo, setDemo, DemoModal] = useModal(null)
 
     const cachedSearchValue = useRef('')
     
@@ -39,7 +39,7 @@ export default function Home() {
         if(data[0].length === 0){
             SetAlert({message:'No courses added to bucket', severity: 2})
         }
-        else if(data[0].length < 2 || data[1].length < 2){
+        else if(data[0].length < 1 || data[1].length < 1){
             SetAlert({message:'Courses are Insufficient.', severity: 1})
         } else {
             setIsFiltering(1)

@@ -35,6 +35,19 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
         return false
     }
 
+    const sortCoursesBySelection = (courses) => {
+        let sortedCourses = []
+        courses.forEach((course) => {
+            if(!isAlreadySelected(course))
+                sortedCourses.push(course)
+        })
+        courses.forEach((course) => {
+            if(isAlreadySelected(course))
+                sortedCourses.push(course)
+        })
+        return sortedCourses
+    }
+
     useEffect(() => {
         if(code.length < 4) {
             setFilteredCourses([])
@@ -48,7 +61,8 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
             setError(true)
             setFilteredCourses([])
         }
-        setFilteredCourses([...filtered])
+        const sortedCourses = sortCoursesBySelection(filtered)
+        setFilteredCourses([...sortedCourses])
     }, [code, error, storage])
 
     return(
