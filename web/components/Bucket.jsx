@@ -9,6 +9,9 @@ export default function Bucket({data: buckets, setData: setBuckets, setModal}) {
     setBuckets(oldBucket => {
       let newBucket = [...oldBucket]
       newBucket[bucketI].splice(itemI, 1)
+      if(!newBucket[0]?.length && newBucket[1]?.length){
+        newBucket.splice(0,1)
+      }
       if(bucketI && newBucket[bucketI].length === 0){
         newBucket.splice(bucketI,1)
         newBucket.push([])

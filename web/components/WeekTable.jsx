@@ -9,7 +9,7 @@ export default function WeekTable({ courses, storage }) {
     
     useEffect(() => {
         const tableMap = getTableMap()
-        courses.map(courseKey => {
+        courses?.map(courseKey => {
             const course = storage[courseKey]
             // 8:00 AM will Map to 0, 9:00 AM -> 1 and so on.
             course.times.map((time, timeI) => {

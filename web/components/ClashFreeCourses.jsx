@@ -16,10 +16,23 @@ export default function ClashFreeCourses({setIsFiltering, storage, data}) {
     useEffect(() => {
         const freeWeeks = getClashFreeWeeks(data)
         setClashFreeWeeks(freeWeeks)
-        const freeWeeksLength = freeWeeks.length
     }, [data])
 
-    if(clashFreeWeeks === null) return null
+    if(clashFreeWeeks === null || !clashFreeWeeks.length) {
+        return (
+            <Box sx={{marginTop: '5vh', marginLeft: '4vw', width: '70vw'}}>
+                <Typography variant='h4' color='error'>
+                    All Possible Combinations of Courses are Clashing.
+                    <br/>
+                    No Clash Free Schedule Found!
+                </Typography>
+                <hr/>
+                <Typography variant='h5' color='primary'>
+                    Tip: Try Adding more Courses.
+                </Typography>
+            </Box>
+        )
+    }
 
     return(
         <>
