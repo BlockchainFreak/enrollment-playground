@@ -67,6 +67,7 @@ export default function WeekTable({ courses, storage }) {
                         {
                             ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].map(day => (
                                 <HeadCell
+                                    key={day}
                                     label={day}
                                     width={dayWidth}
                                     height={dayHeight}
