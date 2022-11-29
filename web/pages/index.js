@@ -13,7 +13,7 @@ import { useState, useEffect, useRef } from 'react'
 let getDefault = () => [[], [], [], [], [], [], []]
 
 export default function Home() {
-    const [data, setData] = useState(testData)
+    const [data, setData] = useState(getDefault())
     const [storage, setStorage] = useState(undefined)
 
     const [alert, SetAlert] = useState({
@@ -33,6 +33,10 @@ export default function Home() {
             setStorage(json)
         }
         fetcher()
+
+        if(localStorage.getItem('buckets')){
+            setData(JSON.parse(localStorage.getItem('buckets')))
+        }
     }, [])
 
     const handleProcessRequest = () => {
@@ -99,7 +103,7 @@ export default function Home() {
             <Button
                 onClick={() => {setData(getDefault())}}
                 variant='contained'
-                color='secondary'
+                color='error'
                 sx={{
                     position: "fixed",
                     right: '275px',

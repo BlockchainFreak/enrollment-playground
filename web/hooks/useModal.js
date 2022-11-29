@@ -25,7 +25,7 @@ const style = {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    minWidth: "90vw",
+    width: "90vw",
     maxHeight: "80vh",
     minHeight: "80vh",
     bgcolor: 'background.paper',

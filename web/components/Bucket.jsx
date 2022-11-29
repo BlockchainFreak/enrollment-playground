@@ -29,7 +29,7 @@ export default function Bucket({data: buckets, setData: setBuckets, setModal}) {
         >
           <Stack direction="row">
             <Typography variant="h5" textAlign='center' sx={{width: "100%"}}>
-              <strong>CLASS {bucketI + 1}</strong>
+              <strong>BUCKET {bucketI + 1}</strong>
             </Typography>
             <Button
               variant='contained'

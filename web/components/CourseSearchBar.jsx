@@ -1,11 +1,11 @@
-import { useEffect, useState, memo } from 'react'
+import { useEffect, useState, useRef, memo } from 'react'
 import {Table, TableBody, TableCell, TableContainer, TableHead, 
 TableRow, Paper, TextField, IconButton, Button  } from '@mui/material'
 import CloseIcon from '@mui/icons-material/Close';
 
 function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchValue}){
     const [code, setCode] = useState(cachedSearchValue.current ? cachedSearchValue.current : '')
-    const [filteredCourses, setFilteredCourses] = useState([])
+    const filteredCourses = useRef()
     const [error, setError] = useState(false)
 
     const handleChange = async(e) => {
@@ -15,12 +15,13 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
 
     const selectCourse = (e, index) => {
         e.preventDefault()
-        const course = filteredCourses[index]
+        const course = filteredCourses.current[index]
         setData(oldData => {
             const newData = [...oldData]
             newData[modal].push(course)
             return newData
         })
+        localStorage.setItem('buckets', JSON.stringify(data))
     }
 
     const isAlreadySelected = (course) => {
@@ -48,28 +49,27 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
         return sortedCourses
     }
 
-    useEffect(() => {
-        if(code.length < 4) {
-            setFilteredCourses([])
-            if (error) setError(false)
-            return;
+    const getFilteredCourses = () => {
+        if(code.length < 2) {
+            return null;
         }
         const filtered = Object.values(storage).filter((item) => {
-            return item.code.includes(code.toUpperCase())
+            return (item.code + item.name + item.instructor).toLowerCase().includes(code.toLowerCase())
         })
         if(filtered.length === 0){
-            setError(true)
-            setFilteredCourses([])
+            return null;
         }
         const sortedCourses = sortCoursesBySelection(filtered)
-        setFilteredCourses([...sortedCourses])
-    }, [code, error, storage])
+        filteredCourses.current = sortedCourses
+        console.log(sortedCourses)
+        return sortedCourses
+    }
 
     return(
         <>
             <TextField
             error = {error}
-            label="course code"
+            label="Search Course"
             value={code}
             onChange={(e) => handleChange(e)}
             width="30vw"
@@ -95,9 +95,9 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
                         </TableRow>
                         </TableHead>
                         <TableBody>
-                        {filteredCourses.map((row, index) => (
+                        {getFilteredCourses()?.map((row, index) => (
                             <TableRow hover
-                            key={row.name + row.section}
+                            key={row.name + row.section + index}
                             sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
                             >
                             <TableCell component="th" scope="row">{index + 1}</TableCell>
