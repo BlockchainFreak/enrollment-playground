@@ -3,6 +3,7 @@ import '../styles/globals.css'
 import '@remotelock/react-week-scheduler/index.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
+import { Analytics } from '@vercel/analytics/react';
 
 const theme = createTheme({
   palette: {
@@ -23,6 +24,7 @@ function MyApp({ Component, pageProps }) {
         <CssBaseline/>
         <Component {...pageProps} />
       </ThemeProvider>
+      <Analytics/>
     </>
   )
 }
