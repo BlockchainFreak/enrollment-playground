@@ -54,7 +54,7 @@ function CourseSearchBar({modal, setModal, data, setData, storage, cachedSearchV
             return null;
         }
         const filtered = Object.values(storage).filter((item) => {
-            return (item.code + item.name + item.instructor).toLowerCase().includes(code.toLowerCase())
+            return code.toLowerCase().split(" ").every(i => (item.code + item.name + item.instructor).toLowerCase().includes(i))
         })
         if(filtered.length === 0){
             return null;
