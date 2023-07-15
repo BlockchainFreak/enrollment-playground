@@ -64,6 +64,9 @@ export default function Home() {
 
     return(
         <main>
+            <div>
+                <h1>This is a legacy app. Version 2 is coming soon. Stay tuned. Link will be shared on LDF.</h1>
+            </div>
             <Bucket {...{data, setData, setModal}} />
             <AddModal>
                 <CourseSearchBar {...{modal, setModal, data, setData, storage, cachedSearchValue}}/>
